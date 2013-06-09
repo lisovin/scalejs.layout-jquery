@@ -1,0 +1,6 @@
+
+/packages
+*.suo
+/scalejs.layout-jquery/build
+/scalejs.layout-jquery/obj
+/scalejs.layout-jquery/scalejs.layout-jquery.csproj.user

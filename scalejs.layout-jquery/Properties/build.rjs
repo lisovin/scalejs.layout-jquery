@@ -1,0 +1,7 @@
+﻿({
+	mainConfigFile: '../config.js',
+    include: 'scalejs.layout-jquery',
+    exclude: [
+        'scalejs!core'
+    ]
+})
